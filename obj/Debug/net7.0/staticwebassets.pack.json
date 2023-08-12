@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SmartYBus.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SmartYBus.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\css\\tailwind.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tailwind.css"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\css\\tailwind.output.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tailwind.output.css"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\img\\create-account-office-dark.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\create-account-office-dark.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\img\\create-account-office.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\create-account-office.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\img\\dashboard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\dashboard.png"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\img\\forgot-password-office-dark.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\forgot-password-office-dark.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\img\\forgot-password-office.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\forgot-password-office.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\img\\github.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\img\\login-office-dark.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\login-office-dark.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\img\\login-office.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\login-office.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\img\\twitter.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\js\\charts-bars.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts-bars.js"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\js\\charts-lines.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts-lines.js"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\js\\charts-pie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts-pie.js"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\js\\focus-trap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\focus-trap.js"
+    },
+    {
+      "Id": "C:\\Users\\Milky_Way\\Desktop\\SmartYBus\\wwwroot\\assets\\js\\init-alpine.js",
+      "PackagePath": "staticwebassets\\assets\\js\\init-alpine.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SmartYBus.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SmartYBus.props",
+      "PackagePath": "build\\SmartYBus.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SmartYBus.props",
+      "PackagePath": "buildMultiTargeting\\SmartYBus.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SmartYBus.props",
+      "PackagePath": "buildTransitive\\SmartYBus.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
